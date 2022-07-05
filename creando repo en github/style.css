@@ -18,6 +18,17 @@
     font-family: 'Dancing Script', cursive;
 }
 
+.box:hover .boxuno{
+    height: 200;
+    width: 200;
+    transform: translateX(1100px);
+}
+
+.boxuno{
+transition: all 3s;
+}
+
+
 
 
 *{
